@@ -7,3 +7,7 @@ All About APIs: Welcome to my blog about APIs
 - Social Media APIs
 - Content delivery and management APIs
 - Microservices
+
+<p align="center">
+  <img src="apis_dimension.jpg" width="350" title="hover text">
+</p>
